@@ -1,0 +1,162 @@
+	- HTML Stands for Hyper Text Markup Language
+
+	- HTML Developed by Tim Berners Lee
+
+	- HTML used to develop the static web pages.
+
+	- we will save the Web pages with the help of ".html" or ".htm" extensions
+
+	- VSCode IDE is Suggestable IDE to build the web pages
+
+	- VSCode IDE Given by microsoft and open source IDE also
+
+	- we will execute the webpages with the help of browsers
+
+		Ex.
+			Google chrome
+
+			Mozilla
+
+			Opera
+
+			Netscape Navigator
+
+			----
+			----
+			----
+	- we will apply styles to the webpages with the help of CSS
+
+		Ex.
+			color
+	
+			background-color
+
+			margins
+
+			paddings
+
+			---
+			---
+		
+	- CSS stands for cascading style sheet
+
+	- JavaScript is the Scripting Language, used to convert static webpages to dynamic webpages
+
+	- we will build the webpages with the help of tags.
+
+		Ex.
+			<html>
+
+			<head>
+
+			<body>
+
+			<table>
+
+			<img>
+
+			---
+			---
+			--- 
+
+
+	- HTML is the Markup Language.
+
+	- Initial Version of HTML Released in 1991.
+
+	- Current Version is HTML 5.x
+
+	- HTML5.x Supports the API'S, so HTML5 Popular in web development
+
+	Ex.
+		Storages
+
+			Local Storage
+
+			Session Storage
+
+		Location
+			Google Maps Applications
+
+		Drag & Drop API
+
+		Web Socket API
+			Chat Applications
+
+		Web Worker API
+			Multi Threading Applications (Multi Process Applications)
+
+		Canvas API
+			2D Graphics   (JavaScript)
+
+		SVG API
+			2D Graphics  (XML)
+
+
+Software Installations
+**********************
+
+1) download and install Visual Studio Code
+
+	website : https://code.visualstudio.com/docs/?dv=win
+
+	file    : VSCodeUserSetup-x64-1.64.1.exe
+
+
+2) install the plugins
+
+	=> LiveServer
+
+	=> Lorem / Dummy Text Generators
+
+
+3) install the browsers
+
+	=> Google Chrome
+
+	=> Mozilla
+
+	=> IE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
